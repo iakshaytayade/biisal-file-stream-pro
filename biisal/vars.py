@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 
 load_dotenv()
-bot_name = "RT File To Link"
+bot_name = "Rt_filetolink_bot"
 bisal_channel = "https://t.me/+Em9hcJaiR7JhZTg1"
 bisal_grp = "https://t.me/+PA8OPL2Zglk3MDM1"
 
