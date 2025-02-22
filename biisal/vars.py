@@ -6,8 +6,8 @@ from dotenv import load_dotenv
 
 
 load_dotenv()
-bot_name = "Bɪɪsᴀʟ Fɪʟᴇ2Lɪɴᴋ Bᴏᴛ"
-bisal_channel = "https://telegram.me/bisal_files"
+bot_name = "RT File To Link"
+bisal_channel = "https://t.me/+Em9hcJaiR7JhZTg1"
 bisal_grp = "https://t.me/+PA8OPL2Zglk3MDM1"
 
 class Var(object):
